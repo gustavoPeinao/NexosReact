@@ -1,0 +1,16 @@
+/* :root {
+    --displayIng: none;
+  }
+
+.displayIng{
+    display: none
+} */
+
+.miBoton {
+    /* background: -webkit-linear-gradient(#FF21DD, #8F60E5); */
+    background: white;
+    color: #00c2ae;
+    border-radius: 150px;
+    border: 3px #00c2ae outset;
+    width: 100%;
+}
